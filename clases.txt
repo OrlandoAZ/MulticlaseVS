@@ -1,0 +1,5 @@
+Cassava___bacterial_blight
+Cassava___brown_streak_disease
+Cassava___green_mottle
+Cassava___healthy
+Cassava___mosaic_disease
